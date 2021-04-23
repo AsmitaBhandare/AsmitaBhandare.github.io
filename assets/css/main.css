@@ -3841,7 +3841,7 @@
 		.tooltip .tooltiptext {
 		    visibility: hidden;
 				max-width: none;
-		    min-width: 120px;
+		    min-width: 220px;
 		    background-color: #555;
 		    color: #fff;
 		    text-align: center;
@@ -3860,7 +3860,7 @@
 		    content: "";
 		    position: absolute;
 		    bottom: 100%;
-		    left: 50%;
+		    left: 27%;
 		    margin-left: -5px;
 		    border-width: 5px;
 		    border-style: solid;
