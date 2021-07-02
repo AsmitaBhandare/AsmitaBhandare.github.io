@@ -3122,9 +3122,8 @@
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
-		text-align: center;
-	}
+		padding: 5em 1em 5em 1em ;
+		text-align: center;	}
 
 		#header h1 {
 			margin: 0 0 0.25em 0;
@@ -3134,6 +3133,8 @@
 			font-size: 1.25em;
 			letter-spacing: -0.025em;
 			color: #F5F5F5;
+			padding: 1em 1em 0.5em 1em ;
+			text-align: center;
 		}
 
 		#header.alt {
