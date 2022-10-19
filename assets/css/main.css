@@ -1915,6 +1915,22 @@
 		margin-bottom: 2em;
 	}
 
+	.box-big > :last-child,
+	.box-big > :last-child > :last-child,
+	.box-big > :last-child > :last-child > :last-child {
+		margin-bottom: 0;
+	}
+
+	.box-big.alt {
+		border: 0;
+		border-radius: 0;
+		padding: 0;
+	}
+
+.box-big {
+	border-color: rgba(0, 0, 0);
+}
+
 /* Button */
 
 	input[type="submit"],
