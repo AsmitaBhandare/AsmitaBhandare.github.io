@@ -1905,6 +1905,15 @@
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
+	.box-big {
+		border-radius: 8px;
+		border: solid;
+		padding: 0.5em;
+		width: 20em;
+		text-align: center;
+		margin: auto;
+		margin-bottom: 2em;
+	}
 
 /* Button */
 
